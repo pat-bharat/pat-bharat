@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Bharat  
 ### Enterprise Architect • AI/ML Developer • Cloud & Backend Engineer  
 Designing intelligent, event‑driven systems with Python, FastAPI, Redpanda, LangGraph, and Flutter.
@@ -31,10 +29,53 @@ I build scalable backend systems, AI agents, event‑driven architectures, and m
 
 ## 📁 Project Index
 
-### 🔹 AI & Agents
-- **AI Email Assistant** — Universal IMAP/SMTP agent with filtering and auto‑drafting  
-- **LangGraph Multi‑Agent System** — Workflow orchestration for reasoning + tools  
-- **RAG Pipeline** — Vector search, embeddings, and retrieval architecture  
-- **Code Review Agent** — Automated refactoring and architecture suggestions  
+### 🔹 Hotel Marketing Platform (Core System)
+- [hm-core](https://github.com/pat-bharat/hm-core)
+- [hm-marketing](https://github.com/pat-bharat/hm-marketing)
+- [hm-revenue](https://github.com/pat-bharat/hm-revenue)
+- [hm-revenue-engine](https://github.com/pat-bharat/hm-revenue-engine)
+- [hm-reviews](https://github.com/pat-bharat/hm-reviews)
+- [hm-supports](https://github.com/pat-bharat/hm-supports)
+- [hm-documents](https://github.com/pat-bharat/hm-documents)
+- [hotel-marketing](https://github.com/pat-bharat/hotel-marketing)
 
-### 🔹 Hotel Marketing System
+### 🔹 Backend Services & Integrations
+- [hm-notifications](https://github.com/pat-bharat/hm-notifications)
+- [hm-integrations](https://github.com/pat-bharat/hm-integrations)
+- [hm-ai-service](https://github.com/pat-bharat/hm-ai-service)
+- [hm-api-gateway](https://github.com/pat-bharat/hm-api-gateway)
+- [hm-shared](https://github.com/pat-bharat/hm-shared)
+- [hm-mock-data](https://github.com/pat-bharat/hm-mock-data)
+
+### 🔹 Infrastructure & DevOps
+- [hm-infrastructure](https://github.com/pat-bharat/hm-infrastructure)
+
+### 🔹 Frontend / UI
+- [hm-manager-ui](https://github.com/pat-bharat/hm-manager-ui)
+
+### 🔹 Other Projects
+- [travel-planner](https://github.com/pat-bharat/travel-planner)
+- [research-projects](https://github.com/pat-bharat/research-projects)
+
+---
+
+## 🎯 Currently Learning
+- LangGraph advanced patterns  
+- RAG optimization and evaluation  
+- Multi‑agent architectures  
+- Flutter responsive UI  
+- Cloud-native event streaming  
+
+---
+
+## 🚀 What I'm Building
+- AI‑powered hotel marketing automation platform  
+- Universal AI email agent  
+- Multi‑agent orchestration framework  
+- Event-driven backend for hospitality tech  
+
+---
+
+## 📫 Connect
+- **LinkedIn:** https://www.linkedin.com/in/  
+- **Email:** yourname@example.com  
