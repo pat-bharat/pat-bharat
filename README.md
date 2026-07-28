@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Bharat  
-### Enterprise Architect • AI/ML Developer • Cloud & Backend Engineer  
+### Enterprise Architect • AI Engineer • Cloud & Backend Engineer  
 Designing intelligent, event‑driven systems with Python, FastAPI, Redpanda, LangGraph, and Flutter.
 
 ---
